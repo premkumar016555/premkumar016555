@@ -1,73 +1,78 @@
+<!-- Banner (optional, you can upload "banner.png" to this repo and replace below) -->
+<!-- <img src="banner.png" width="100%" alt="Prem Kumar | Portfolio Banner"> -->
+
 <h1 align="center">Hi, I'm Prem Kumar 👋</h1>
-<p align="center">
-  Final-year B.Tech (IT) • Backend & Mobile Dev • Robotics & AI Enthusiast
-</p>
+<h3 align="center">Final-year B.Tech (IT) | Backend & Mobile Dev | Robotics & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> ·
-  <a href="https://www.sproutern.com">Portfolio</a> ·
-  <a href="https://rarible.com/your-rarible-handle">Rarible</a>
+  <a href="mailto:premkumar@sproutern.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/n"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.sproutern.com"><img src="https://img.shields.io/badge/🌐-Sproutern%20(Company)-green?style=flat"></a>
 </p>
 
 ---
 
-### 🚀 What I’m focused on
-- 🤖 **Ronbot** — Arduino Mega + ESP32-CAM humanoid robot, IoT-controlled with 1-hour rental sessions, dynamic ID/IP rotation for security.
-- 🌾 **Farmers–to–Consumer Platform (TN)** — Direct marketplace for Uzhavar Sandhai; OTP auth, driver tracking, phone API calling.
-- 📶 **Seamless IP Handover** — Java queue-based IP management for mobile devices with smooth reassignment logic.
-- 🧠 **AI/NFT Tools** — Python pipelines for layered NFT generation; Stable Diffusion prompts & automated naming.
-- 📱 **Flutter Apps** — Single-folder `lib/` structure prototypes for speed (internships, campus utilities).
+## 🚀 What I’m Working On
+- 🤖 **Ronbot** — Arduino Mega + ESP32-CAM humanoid robot, IoT-controlled with rental system & dynamic ID/IP security.  
+- 🌾 **Farmers–to–Consumer Platform** — Uzhavar Santhai direct marketplace; OTP auth, driver tracking, customer–farmer calling.  
+- 📶 **Seamless IP Handover** — Java queue-based IP allocation & graceful reassignment for mobile devices.  
+- 🧠 **AI/NFT Tools** — Python pipelines for NFT generation (prompt mixing + Stable Diffusion).  
+- 📱 **Flutter Apps** — Lightweight single-folder prototypes (internships & utilities).  
 
 ---
 
-### 🏆 Highlights
-- 🥉 Secured **3rd place** at **Synergy’24 (AUSEC)**.
-- 💬 **IGNITE Program** (Naan Mudhalvan): CFO for *Share & Wear* (AI fashion recommendations + rentals).
-- 🧑‍💻 Sold unique NFTs on **Rarible** using MetaMask.
+## 🏆 Achievements
+- 🥉 **3rd place** – Synergy’24 (AUSEC).  
+- 💼 **CFO** – IGNITE Program project *Share & Wear* (AI fashion rentals).  
+- 💻 **NFT Creator** – Sold unique digital art on **Rarible** via MetaMask.  
 
 ---
 
-### 🧰 Tech I use
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,flutter,dart,arduino,cpp,esp32,solidity,js,ts,react,tailwind,git,githubactions,linux,mysql,postgres,redis,docker,vscode,figma,androidstudio" />
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,dart,arduino,cpp,esp32,solidity,js,ts,nodejs,react,tailwind,git,githubactions,linux,mysql,postgres,redis,docker,vscode,figma,androidstudio&perline=10" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-- **Ronbot – Humanoid Robot (Arduino + ESP32-CAM)**  
-  Real-time video feed + IoT controls after payment; rotating unique IDs & IPs for security.  
-  ▶️ Repo: [link]  
+## 📌 Featured Projects
+### 🔹 Ronbot – Humanoid Robot (Arduino + ESP32-CAM)  
+> Real-time video + IoT control | Dynamic IP/ID security | Payment-gated access.  
+🔗 [View Repo](#)  
 
-- **Farmers Direct Market (TN Uzhavar Santhai)**  
-  Farmer OTP onboarding, product listings, buyer search, driver tracking & location updates.  
-  ▶️ Repo: [link]  
+### 🔹 Farmers Direct Market (TN Uzhavar Santhai)  
+> Farmer onboarding | OTP login | Driver tracking | Phone API integration.  
+🔗 [View Repo](#)  
 
-- **Mobile IP Manager (Java)**  
-  Queue-based IP assignment, renewal, and graceful handover; minimizes session drops.  
-  ▶️ Repo: [link]  
+### 🔹 Mobile IP Manager (Java)  
+> Queue-based IP allocation | Renewal & handover without session loss.  
+🔗 [View Repo](#)  
 
-- **NFT Prompt & Generator (Python)**  
-  Automatic prompt mixing (colors/styles/moods/environments/actions) + asset naming; Stable Diffusion pipeline.  
-  ▶️ Repo: [link]  
-
----
-
-### 📈 Quick Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=premkumar016555&show_icons=true&hide_title=true" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=premkumar016555" height="140" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar016555&layout=compact" height="140" />
-</p>
+### 🔹 NFT Prompt & Generator (Python)  
+> Auto-generated NFT prompts (colors/styles/moods) | Stable Diffusion pipelines.  
+🔗 [View Repo](#)  
 
 ---
 
-### 🤝 Open to
-- Internships & junior roles (Backend, Flutter, Robotics/IoT)  
-- Open-source collabs (networking, edge AI, on-device vision)  
-- Startup MVPs (fast Flutter prototypes, APIs, bots)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=premkumar016555&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=premkumar016555&theme=radical" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar016555&layout=compact&theme=radical" height="150" />
+</p>
 
-💬 **Let’s connect:** your-email@example.com • LinkedIn: [your-link]
+---
+
+## 🤝 Open To
+- 🌟 Internships & junior roles (Backend, Flutter, Robotics/IoT)  
+- 🌍 Open-source collabs (networking, edge AI, on-device vision)  
+- 🚀 Startup MVPs (Flutter prototypes, APIs, bots)  
+
+📩 **Reach me at:** `premkumar@sproutern.com` | [LinkedIn](https://www.linkedin.com/in/premkumar-m-5a07ab272/n)  
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/premkumar016555">Prem Kumar</a></p>
